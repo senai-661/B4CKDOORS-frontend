@@ -1,0 +1,35 @@
+{
+  "build_command": "pnpm run build",
+  "capabilities": [],
+  "dev_command": "pnpm run dev",
+  "env_vars": {},
+  "experiments": null,
+  "git_remote": {
+    "repo_url": "s3://vida-prod-gitrepo/webdev-git/310519663211562146/BQHeG5PJMrF9sef2RRXhLm",
+    "access_key_id": "ASIAZV3A2ECZPYPTH555",
+    "secret_access_key": "6P04d6AhP9b6K+zihR6nJOd+amPJ32UZJRGzAlGK",
+    "session_token": "IQoJb3JpZ2luX2VjEHcaCXVzLWVhc3QtMSJHMEUCIQCa9clURALoLBcUhrYV02Ydg9b+Q4y2DOp0OemKu4b0ogIgLgZCFMDHpX0WPy+RuMWYsQYlrEVrLQ6mWHfxG9/mZlIq9gMIQBAEGgw2NjUzODYwOTg4NjYiDNKQC26JSkkwJe5I3irTAwno4R2VFaBAE/WfM62vsBOvrzZIn3i8BhcfUmvMObBGeYjYOjVPqDJs4xTbPM1+5c/ZlxJuHsqcDvKONC3m4AaNAaNtlp+/G+VLZ827XRILdiOC4J5qPTrD324zynBi3qPvuDcDPvU5r3DGoxMELzAC2MJdglSBguCazBxabx7R9MLnaDo4+yfU6oA+cBxGFdpIbkZ1IWwFuufoxyCEDIZg0EUDRRBjx8BCjZloJ3HnS1OWLQ/Hkh7WmJ5CcJ9v/m5WnczpIwBgywW9gEjVVbyfFxPHRgbwoOFO0Hv3DmeRG7+KqK9X/5O3VxeVnbKnvSaid9qEca0Hlyt2RAibmBwVZJHRGse7eID3FPl8oAuIiEfcgqcl1THl7skc+Ur4wXfvf9JtDjAV0afq1GJhYM4EGMcuKfz5heFaaXtizWDxpt44w5z9NUQlIt0KSwgNYGyvTl9CCR3YM/Tr2wrqD17Z9RMSmATbR0AQaLiv5hW8tVqlAIK0CXOmZMP/pPAwYyaTGUFuAnXAZxLkcwdsOcp8aOfqZmLKu7AJCmDtcwp54X1ImTZo9Sm+THluAY9ayUrzGoxvlvp3LxI8Kzzk5LYalfQqyzaGikb1ZJyzsd9fusWfMJz2gNEGOp0BJcQvQ1IikdRejWmQvJerwtPRnLuL8mLXfKXNe15NXHKDc+1yGHZZHrR9OoYDmTDqY2nSlG2woNzJg9yZB1FnpZ1A1kEGJdyAJ0Usx6PPj0HGkjoeD6R8VHRHMr5djDKwQyxDhVIp6RdTKcK2Wu5DWnEeXtJrUgJeGYkee1fI0Z08TWI0BbVwBBv+COz1T5uWxT6eQsn1J27tjw4Hsg==",
+    "expiration": "2026-06-04T02:33:00.000Z"
+  },
+  "name": "grena-store-frontend",
+  "path": "/home/ubuntu/grena-store-frontend",
+  "port": 3000,
+  "secrets": {
+    "BUILT_IN_FORGE_API_KEY": "EiyDbyfQckoeHbS34A5fi5",
+    "BUILT_IN_FORGE_API_URL": "https://forge.manus.ai",
+    "JWT_SECRET": "W5uenEPuH34WeNDKfCJGMq",
+    "OAUTH_SERVER_URL": "https://api.manus.im",
+    "OWNER_NAME": "João Otávio Petri da Silva",
+    "OWNER_OPEN_ID": "M7iHLxoR6B3JRWdmt8HN4n",
+    "VITE_ANALYTICS_ENDPOINT": "https://manus-analytics.com",
+    "VITE_ANALYTICS_WEBSITE_ID": "ccf8624d-fd0b-4c24-8b05-a069c4ed5547",
+    "VITE_APP_ID": "BQHeG5PJMrF9sef2RRXhLm",
+    "VITE_APP_LOGO": "",
+    "VITE_APP_TITLE": "Grená - Artigos Esportivos",
+    "VITE_FRONTEND_FORGE_API_KEY": "dDCCoYp7uawakmWG4HdtiW",
+    "VITE_FRONTEND_FORGE_API_URL": "https://forge.manus.ai",
+    "VITE_OAUTH_PORTAL_URL": "https://manus.im"
+  },
+  "template_id": "web-static",
+  "test_command": "pnpm test"
+}
