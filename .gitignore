@@ -1,0 +1,30 @@
+# Dependências
+node_modules/
+
+# Build
+dist/
+*.tsbuildinfo
+
+# Variáveis de ambiente (NUNCA versionar; use .env.example como modelo)
+.env
+.env.local
+.env.*.local
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Testes / cobertura
+coverage/
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Artefatos gerados por tsc (a config oficial é vite.config.ts)
+vite.config.js
+vite.config.d.ts
