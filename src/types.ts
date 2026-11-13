@@ -1,0 +1,10 @@
+export type Role="cliente"|"admin";
+export interface Usuario{idUsuario?:number;nome:string;email:string;cpf:string;senha:string;role?:Role;}
+export interface CaracteristicaProduto{nome:string;valor:string;}
+export interface Produto{idProduto?:number;codProduto?:string;nome:string;descricao?:string;preco:number;estoque:number;idCategoria:number;imagem?:string|null;idMarca?:number|null;marca?:string|null;genero?:string;esporte?:string;modalidade?:string;faixaEtaria?:string;cores?:string[];tamanhos?:string[];desconto?:number;precoAnterior?:number;parcelas?:number;avaliacao?:number;quantidadeAvaliacoes?:number;promocao?:boolean;linha?:string;caracteristicas?:CaracteristicaProduto[];}
+export interface CartItem{idProduto:number;nome:string;preco:number;quantidade:number;tamanho?:string;cor?:string;imagem?:string|null;}
+export interface Categoria{idCategoria?:number;nome:string;}
+export interface Pedido{idPedido?:number;codPedido?:string;idUsuario:number;dataPedido?:string;valorTotal:number;status?:string;}
+export type ApiEntity="usuarios"|"categorias"|"produtos"|"pedidos";
+export interface UserProfile{idUsuario?:number;nome:string;email:string;cpf?:string;telefone?:string;role?:Role;}
+export interface Marca{idMarca?:number;nome:string;}

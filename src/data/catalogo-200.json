@@ -1,0 +1,4796 @@
+{
+ "marcas": [
+  "Adidas",
+  "Asics",
+  "Black Skull",
+  "Fila",
+  "GRENÁ",
+  "Growth Supplements",
+  "Integralmédica",
+  "Kappa",
+  "Lupo",
+  "Max Titanium",
+  "Mikasa",
+  "Mizuno",
+  "New Balance",
+  "Nike",
+  "Oakley",
+  "Olympikus",
+  "Penalty",
+  "Probiótica",
+  "Puma",
+  "Reebok",
+  "Spalding",
+  "Speedo",
+  "Topper",
+  "Umbro",
+  "Under Armour",
+  "Wilson"
+ ],
+ "produtos": [
+  {
+   "nome": "Camisa I 2025/26 Torcedor Flamengo",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Flamengo by Adidas.",
+   "preco": 349.99,
+   "estoque": 48,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Flamengo",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Flamengo by Adidas.",
+   "preco": 349.99,
+   "estoque": 15,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Flamengo",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Flamengo by Adidas.",
+   "preco": 379.99,
+   "estoque": 9,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Flamengo",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Flamengo by Adidas.",
+   "preco": 249.99,
+   "estoque": 55,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Palmeiras",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Palmeiras by Puma.",
+   "preco": 349.99,
+   "estoque": 25,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Palmeiras",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Palmeiras by Puma.",
+   "preco": 349.99,
+   "estoque": 23,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Palmeiras",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Palmeiras by Puma.",
+   "preco": 379.99,
+   "estoque": 22,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Palmeiras",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Palmeiras by Puma.",
+   "preco": 249.99,
+   "estoque": 16,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Corinthians",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Corinthians by Nike.",
+   "preco": 349.99,
+   "estoque": 55,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Corinthians",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Corinthians by Nike.",
+   "preco": 349.99,
+   "estoque": 14,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Corinthians",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Corinthians by Nike.",
+   "preco": 379.99,
+   "estoque": 51,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Corinthians",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Corinthians by Nike.",
+   "preco": 249.99,
+   "estoque": 55,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor São Paulo",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial São Paulo by New Balance.",
+   "preco": 349.99,
+   "estoque": 42,
+   "categoria": "Camisas de Time",
+   "marca": "New Balance",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor São Paulo",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial São Paulo by New Balance.",
+   "preco": 349.99,
+   "estoque": 13,
+   "categoria": "Camisas de Time",
+   "marca": "New Balance",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 São Paulo",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial São Paulo by New Balance.",
+   "preco": 379.99,
+   "estoque": 45,
+   "categoria": "Camisas de Time",
+   "marca": "New Balance",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 São Paulo",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial São Paulo by New Balance.",
+   "preco": 249.99,
+   "estoque": 35,
+   "categoria": "Camisas de Time",
+   "marca": "New Balance",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Santos",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Santos by Umbro.",
+   "preco": 349.99,
+   "estoque": 10,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Santos",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Santos by Umbro.",
+   "preco": 349.99,
+   "estoque": 9,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Santos",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Santos by Umbro.",
+   "preco": 379.99,
+   "estoque": 13,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Santos",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Santos by Umbro.",
+   "preco": 249.99,
+   "estoque": 21,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Vasco da Gama",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Vasco da Gama by Kappa.",
+   "preco": 349.99,
+   "estoque": 22,
+   "categoria": "Camisas de Time",
+   "marca": "Kappa",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Vasco da Gama",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Vasco da Gama by Kappa.",
+   "preco": 349.99,
+   "estoque": 40,
+   "categoria": "Camisas de Time",
+   "marca": "Kappa",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Vasco da Gama",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Vasco da Gama by Kappa.",
+   "preco": 379.99,
+   "estoque": 46,
+   "categoria": "Camisas de Time",
+   "marca": "Kappa",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Vasco da Gama",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Vasco da Gama by Kappa.",
+   "preco": 249.99,
+   "estoque": 9,
+   "categoria": "Camisas de Time",
+   "marca": "Kappa",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Grêmio",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Grêmio by Umbro.",
+   "preco": 349.99,
+   "estoque": 43,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Grêmio",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Grêmio by Umbro.",
+   "preco": 349.99,
+   "estoque": 20,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Grêmio",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Grêmio by Umbro.",
+   "preco": 379.99,
+   "estoque": 53,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Grêmio",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Grêmio by Umbro.",
+   "preco": 249.99,
+   "estoque": 49,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Internacional",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Internacional by Adidas.",
+   "preco": 349.99,
+   "estoque": 52,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Internacional",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Internacional by Adidas.",
+   "preco": 349.99,
+   "estoque": 42,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Internacional",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Internacional by Adidas.",
+   "preco": 379.99,
+   "estoque": 34,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Internacional",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Internacional by Adidas.",
+   "preco": 249.99,
+   "estoque": 22,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Atlético Mineiro",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Atlético Mineiro by Adidas.",
+   "preco": 349.99,
+   "estoque": 36,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Atlético Mineiro",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Atlético Mineiro by Adidas.",
+   "preco": 349.99,
+   "estoque": 45,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Atlético Mineiro",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Atlético Mineiro by Adidas.",
+   "preco": 379.99,
+   "estoque": 25,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Atlético Mineiro",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Atlético Mineiro by Adidas.",
+   "preco": 249.99,
+   "estoque": 59,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Cruzeiro",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Cruzeiro by Adidas.",
+   "preco": 349.99,
+   "estoque": 8,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Cruzeiro",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Cruzeiro by Adidas.",
+   "preco": 349.99,
+   "estoque": 56,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Cruzeiro",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Cruzeiro by Adidas.",
+   "preco": 379.99,
+   "estoque": 59,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Cruzeiro",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Cruzeiro by Adidas.",
+   "preco": 249.99,
+   "estoque": 18,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Botafogo",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Botafogo by Reebok.",
+   "preco": 349.99,
+   "estoque": 52,
+   "categoria": "Camisas de Time",
+   "marca": "Reebok",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Botafogo",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Botafogo by Reebok.",
+   "preco": 349.99,
+   "estoque": 35,
+   "categoria": "Camisas de Time",
+   "marca": "Reebok",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Botafogo",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Botafogo by Reebok.",
+   "preco": 379.99,
+   "estoque": 29,
+   "categoria": "Camisas de Time",
+   "marca": "Reebok",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Botafogo",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Botafogo by Reebok.",
+   "preco": 249.99,
+   "estoque": 25,
+   "categoria": "Camisas de Time",
+   "marca": "Reebok",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Fluminense",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Fluminense by Umbro.",
+   "preco": 349.99,
+   "estoque": 17,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Grená",
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Fluminense",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Fluminense by Umbro.",
+   "preco": 349.99,
+   "estoque": 21,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Grená",
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Fluminense",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Fluminense by Umbro.",
+   "preco": 379.99,
+   "estoque": 56,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Grená",
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Fluminense",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Fluminense by Umbro.",
+   "preco": 249.99,
+   "estoque": 29,
+   "categoria": "Camisas de Time",
+   "marca": "Umbro",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Grená",
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Bahia",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Bahia by Puma.",
+   "preco": 349.99,
+   "estoque": 14,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Bahia",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Bahia by Puma.",
+   "preco": 349.99,
+   "estoque": 13,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Bahia",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Bahia by Puma.",
+   "preco": 379.99,
+   "estoque": 32,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Bahia",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Bahia by Puma.",
+   "preco": 249.99,
+   "estoque": 14,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Real Madrid",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Real Madrid by Adidas.",
+   "preco": 349.99,
+   "estoque": 30,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Dourado"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Real Madrid",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Real Madrid by Adidas.",
+   "preco": 349.99,
+   "estoque": 30,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Dourado"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Real Madrid",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Real Madrid by Adidas.",
+   "preco": 379.99,
+   "estoque": 46,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Dourado"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Real Madrid",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Real Madrid by Adidas.",
+   "preco": 249.99,
+   "estoque": 24,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Dourado"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Barcelona",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Barcelona by Nike.",
+   "preco": 349.99,
+   "estoque": 59,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Grená"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Barcelona",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Barcelona by Nike.",
+   "preco": 349.99,
+   "estoque": 10,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Grená"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Barcelona",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Barcelona by Nike.",
+   "preco": 379.99,
+   "estoque": 54,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Grená"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Barcelona",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Barcelona by Nike.",
+   "preco": 249.99,
+   "estoque": 37,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Grená"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Manchester City",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Manchester City by Puma.",
+   "preco": 349.99,
+   "estoque": 42,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Manchester City",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Manchester City by Puma.",
+   "preco": 349.99,
+   "estoque": 15,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Manchester City",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Manchester City by Puma.",
+   "preco": 379.99,
+   "estoque": 32,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Manchester City",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Manchester City by Puma.",
+   "preco": 249.99,
+   "estoque": 13,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Liverpool",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Liverpool by Adidas.",
+   "preco": 349.99,
+   "estoque": 43,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Liverpool",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Liverpool by Adidas.",
+   "preco": 349.99,
+   "estoque": 26,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Liverpool",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Liverpool by Adidas.",
+   "preco": 379.99,
+   "estoque": 48,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Liverpool",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Liverpool by Adidas.",
+   "preco": 249.99,
+   "estoque": 47,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Paris Saint-Germain",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Paris Saint-Germain by Nike.",
+   "preco": 349.99,
+   "estoque": 31,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul-marinho",
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Paris Saint-Germain",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Paris Saint-Germain by Nike.",
+   "preco": 349.99,
+   "estoque": 44,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul-marinho",
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Paris Saint-Germain",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Paris Saint-Germain by Nike.",
+   "preco": 379.99,
+   "estoque": 20,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul-marinho",
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Paris Saint-Germain",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Paris Saint-Germain by Nike.",
+   "preco": 249.99,
+   "estoque": 53,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul-marinho",
+    "Vermelho"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Juventus",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Juventus by Adidas.",
+   "preco": 349.99,
+   "estoque": 12,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Juventus",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Juventus by Adidas.",
+   "preco": 349.99,
+   "estoque": 10,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Juventus",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Juventus by Adidas.",
+   "preco": 379.99,
+   "estoque": 50,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Juventus",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Juventus by Adidas.",
+   "preco": 249.99,
+   "estoque": 22,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Milan",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Milan by Puma.",
+   "preco": 349.99,
+   "estoque": 57,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Milan",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Milan by Puma.",
+   "preco": 349.99,
+   "estoque": 26,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Milan",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Milan by Puma.",
+   "preco": 379.99,
+   "estoque": 13,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Milan",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Milan by Puma.",
+   "preco": 249.99,
+   "estoque": 22,
+   "categoria": "Camisas de Time",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Bayern de Munique",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Bayern de Munique by Adidas.",
+   "preco": 349.99,
+   "estoque": 14,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Bayern de Munique",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Bayern de Munique by Adidas.",
+   "preco": 349.99,
+   "estoque": 32,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Bayern de Munique",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Bayern de Munique by Adidas.",
+   "preco": 379.99,
+   "estoque": 25,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Bayern de Munique",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Bayern de Munique by Adidas.",
+   "preco": 249.99,
+   "estoque": 37,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Boca Juniors",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Boca Juniors by Adidas.",
+   "preco": 349.99,
+   "estoque": 48,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Boca Juniors",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Boca Juniors by Adidas.",
+   "preco": 349.99,
+   "estoque": 31,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Boca Juniors",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Boca Juniors by Adidas.",
+   "preco": 379.99,
+   "estoque": 18,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Boca Juniors",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Boca Juniors by Adidas.",
+   "preco": 249.99,
+   "estoque": 31,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Seleção Brasileira",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Seleção Brasileira by Nike.",
+   "preco": 349.99,
+   "estoque": 30,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Amarelo",
+    "Verde",
+    "Azul"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Seleção Brasileira",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Seleção Brasileira by Nike.",
+   "preco": 349.99,
+   "estoque": 21,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Amarelo",
+    "Verde",
+    "Azul"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Seleção Brasileira",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Seleção Brasileira by Nike.",
+   "preco": 379.99,
+   "estoque": 50,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Amarelo",
+    "Verde",
+    "Azul"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Seleção Brasileira",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Seleção Brasileira by Nike.",
+   "preco": 249.99,
+   "estoque": 25,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Amarelo",
+    "Verde",
+    "Azul"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Seleção Argentina",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Seleção Argentina by Adidas.",
+   "preco": 349.99,
+   "estoque": 52,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Seleção Argentina",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Seleção Argentina by Adidas.",
+   "preco": 349.99,
+   "estoque": 51,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Seleção Argentina",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Seleção Argentina by Adidas.",
+   "preco": 379.99,
+   "estoque": 49,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Seleção Argentina",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Seleção Argentina by Adidas.",
+   "preco": 249.99,
+   "estoque": 12,
+   "categoria": "Camisas de Time",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Camisa I 2025/26 Torcedor Seleção de Portugal",
+   "descricao": "Uniforme titular oficial, versão torcedor, tecido leve com tecnologia de secagem rápida. Produto oficial Seleção de Portugal by Nike.",
+   "preco": 349.99,
+   "estoque": 46,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Verde"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ]
+  },
+  {
+   "nome": "Camisa II 2025/26 Torcedor Seleção de Portugal",
+   "descricao": "Uniforme reserva oficial, versão torcedor, escudo bordado e gola com acabamento canelado. Produto oficial Seleção de Portugal by Nike.",
+   "preco": 349.99,
+   "estoque": 48,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Verde"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Camisa III 2025/26 Seleção de Portugal",
+   "descricao": "Terceiro uniforme oficial com design exclusivo da temporada. Produto oficial Seleção de Portugal by Nike.",
+   "preco": 379.99,
+   "estoque": 18,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Verde"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 447.05
+  },
+  {
+   "nome": "Camisa de Treino 2025/26 Seleção de Portugal",
+   "descricao": "Camisa de treino usada pelo elenco, tecido respirável e corte atlético. Produto oficial Seleção de Portugal by Nike.",
+   "preco": 249.99,
+   "estoque": 42,
+   "categoria": "Camisas de Time",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vermelho",
+    "Verde"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G",
+    "GG",
+    "XG"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 312.49
+  },
+  {
+   "nome": "Chuteira Nike Mercurial Vapor 16 Academy Campo",
+   "descricao": "Chuteira Nike com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 599.99,
+   "estoque": 21,
+   "categoria": "Chuteiras",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Laranja"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 705.87
+  },
+  {
+   "nome": "Chuteira Nike Phantom GX II Club Society",
+   "descricao": "Chuteira Nike com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 349.99,
+   "estoque": 23,
+   "categoria": "Chuteiras",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira Nike Tiempo Legend 10 Academy Campo",
+   "descricao": "Chuteira Nike com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 549.99,
+   "estoque": 26,
+   "categoria": "Chuteiras",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Branco"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira Adidas Predator League Campo",
+   "descricao": "Chuteira Adidas com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 499.99,
+   "estoque": 26,
+   "categoria": "Chuteiras",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Laranja",
+    "Azul"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira Adidas F50 League Society",
+   "descricao": "Chuteira Adidas com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 449.99,
+   "estoque": 19,
+   "categoria": "Chuteiras",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Amarelo",
+    "Azul"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira Adidas Copa Pure 2 Club Futsal",
+   "descricao": "Chuteira Adidas com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 299.99,
+   "estoque": 37,
+   "categoria": "Chuteiras",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futsal",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Laranja",
+    "Verde"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira Puma Future 7 Play Campo",
+   "descricao": "Chuteira Puma com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 399.99,
+   "estoque": 22,
+   "categoria": "Chuteiras",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Verde"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 444.43
+  },
+  {
+   "nome": "Chuteira Puma Ultra 5 Play Society",
+   "descricao": "Chuteira Puma com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 349.99,
+   "estoque": 33,
+   "categoria": "Chuteiras",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Amarelo",
+    "Laranja"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Chuteira Mizuno Morelia Neo IV Pro Campo",
+   "descricao": "Chuteira Mizuno com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 899.99,
+   "estoque": 20,
+   "categoria": "Chuteiras",
+   "marca": "Mizuno",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 1058.81
+  },
+  {
+   "nome": "Chuteira Umbro Pro 5 Bump Futsal",
+   "descricao": "Chuteira Umbro com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 229.99,
+   "estoque": 11,
+   "categoria": "Chuteiras",
+   "marca": "Umbro",
+   "genero": "Unissex",
+   "esporte": "Futsal",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Verde"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira Penalty Bravo Y-3 Society",
+   "descricao": "Chuteira Penalty com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 199.99,
+   "estoque": 16,
+   "categoria": "Chuteiras",
+   "marca": "Penalty",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Laranja"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira Topper Maestro TD Campo",
+   "descricao": "Chuteira Topper com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 179.99,
+   "estoque": 30,
+   "categoria": "Chuteiras",
+   "marca": "Topper",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Laranja",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 211.75
+  },
+  {
+   "nome": "Chuteira Kappa Player Base Futsal",
+   "descricao": "Chuteira Kappa com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 189.99,
+   "estoque": 39,
+   "categoria": "Chuteiras",
+   "marca": "Kappa",
+   "genero": "Unissex",
+   "esporte": "Futsal",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Chuteira New Balance Furon V7 Dispatch Campo",
+   "descricao": "Chuteira New Balance com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 479.99,
+   "estoque": 13,
+   "categoria": "Chuteiras",
+   "marca": "New Balance",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Amarelo"
+   ],
+   "tamanhos": [
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 533.32
+  },
+  {
+   "nome": "Chuteira Nike Mercurial Superfly 10 Club Infantil",
+   "descricao": "Chuteira Nike com cabedal leve e solado de alta tração para máximo controle de bola.",
+   "preco": 299.99,
+   "estoque": 27,
+   "categoria": "Chuteiras",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Infantil",
+   "cores": [
+    "Preto",
+    "Azul"
+   ],
+   "tamanhos": [
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 352.93
+  },
+  {
+   "nome": "Tênis Nike Pegasus 41",
+   "descricao": "Nike Pegasus 41: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 799.99,
+   "estoque": 10,
+   "categoria": "Calçados",
+   "marca": "Nike",
+   "genero": "Feminino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Laranja"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 888.88
+  },
+  {
+   "nome": "Tênis Nike Vomero 18",
+   "descricao": "Nike Vomero 18: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 999.99,
+   "estoque": 21,
+   "categoria": "Calçados",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Rosa",
+    "Preto"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 1111.1
+  },
+  {
+   "nome": "Tênis Nike Revolution 7",
+   "descricao": "Nike Revolution 7: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 399.99,
+   "estoque": 31,
+   "categoria": "Calçados",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Rosa",
+    "Verde"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Tênis Adidas Ultraboost 5",
+   "descricao": "Adidas Ultraboost 5: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 1099.99,
+   "estoque": 9,
+   "categoria": "Calçados",
+   "marca": "Adidas",
+   "genero": "Feminino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 25,
+   "promocao": true,
+   "precoAnterior": 1466.65
+  },
+  {
+   "nome": "Tênis Adidas Adizero SL2",
+   "descricao": "Adidas Adizero SL2: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 699.99,
+   "estoque": 35,
+   "categoria": "Calçados",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 777.77
+  },
+  {
+   "nome": "Tênis Adidas Duramo SL",
+   "descricao": "Adidas Duramo SL: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 349.99,
+   "estoque": 20,
+   "categoria": "Calçados",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Azul"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Tênis Asics Gel-Nimbus 27",
+   "descricao": "Asics Gel-Nimbus 27: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 1199.99,
+   "estoque": 12,
+   "categoria": "Calçados",
+   "marca": "Asics",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Tênis Asics Gel-Kayano 31",
+   "descricao": "Asics Gel-Kayano 31: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 1099.99,
+   "estoque": 7,
+   "categoria": "Calçados",
+   "marca": "Asics",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Preto"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 25,
+   "promocao": true,
+   "precoAnterior": 1466.65
+  },
+  {
+   "nome": "Tênis Asics Novablast 5",
+   "descricao": "Asics Novablast 5: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 899.99,
+   "estoque": 29,
+   "categoria": "Calçados",
+   "marca": "Asics",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Laranja"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 1124.99
+  },
+  {
+   "nome": "Tênis Mizuno Wave Rider 28",
+   "descricao": "Mizuno Wave Rider 28: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 899.99,
+   "estoque": 35,
+   "categoria": "Calçados",
+   "marca": "Mizuno",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Azul"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 25,
+   "promocao": true,
+   "precoAnterior": 1199.99
+  },
+  {
+   "nome": "Tênis Mizuno Wave Prophecy 13",
+   "descricao": "Mizuno Wave Prophecy 13: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 1499.99,
+   "estoque": 32,
+   "categoria": "Calçados",
+   "marca": "Mizuno",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Branco"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 25,
+   "promocao": true,
+   "precoAnterior": 1999.99
+  },
+  {
+   "nome": "Tênis Olympikus Corre 4",
+   "descricao": "Olympikus Corre 4: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 499.99,
+   "estoque": 29,
+   "categoria": "Calçados",
+   "marca": "Olympikus",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Laranja",
+    "Branco"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 555.54
+  },
+  {
+   "nome": "Tênis Olympikus Veloz 2",
+   "descricao": "Olympikus Veloz 2: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 299.99,
+   "estoque": 17,
+   "categoria": "Calçados",
+   "marca": "Olympikus",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Laranja",
+    "Azul"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 374.99
+  },
+  {
+   "nome": "Tênis New Balance Fresh Foam 1080v14",
+   "descricao": "New Balance Fresh Foam 1080v14: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 1199.99,
+   "estoque": 33,
+   "categoria": "Calçados",
+   "marca": "New Balance",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Preto"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Tênis New Balance 520v9",
+   "descricao": "New Balance 520v9: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 449.99,
+   "estoque": 12,
+   "categoria": "Calçados",
+   "marca": "New Balance",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Preto"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 25,
+   "promocao": true,
+   "precoAnterior": 599.99
+  },
+  {
+   "nome": "Tênis Fila Racer Carbon 2",
+   "descricao": "Fila Racer Carbon 2: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 1299.99,
+   "estoque": 22,
+   "categoria": "Calçados",
+   "marca": "Fila",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Rosa",
+    "Branco"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Tênis Puma Velocity Nitro 3",
+   "descricao": "Puma Velocity Nitro 3: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 799.99,
+   "estoque": 7,
+   "categoria": "Calçados",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Laranja",
+    "Preto"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Tênis Under Armour Charged Pursuit 3",
+   "descricao": "Under Armour Charged Pursuit 3: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 399.99,
+   "estoque": 7,
+   "categoria": "Calçados",
+   "marca": "Under Armour",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Azul"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ]
+  },
+  {
+   "nome": "Tênis Puma Deviate Nitro 3",
+   "descricao": "Puma Deviate Nitro 3: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 1199.99,
+   "estoque": 21,
+   "categoria": "Calçados",
+   "marca": "Puma",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Laranja"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 1499.99
+  },
+  {
+   "nome": "Tênis Fila Float Elite",
+   "descricao": "Fila Float Elite: amortecimento responsivo e cabedal respirável para treinos e provas de corrida.",
+   "preco": 599.99,
+   "estoque": 11,
+   "categoria": "Calçados",
+   "marca": "Fila",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Laranja"
+   ],
+   "tamanhos": [
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44"
+   ],
+   "desconto": 25,
+   "promocao": true,
+   "precoAnterior": 799.99
+  },
+  {
+   "nome": "Shorts Nike Dri-FIT Challenger 7\"",
+   "descricao": "Shorts Nike Dri-FIT Challenger 7\": tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 199.99,
+   "estoque": 46,
+   "categoria": "Roupas",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Branco"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 222.21
+  },
+  {
+   "nome": "Shorts Adidas Own The Run",
+   "descricao": "Shorts Adidas Own The Run: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 179.99,
+   "estoque": 61,
+   "categoria": "Roupas",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Branco"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Shorts Puma Run Favorite Velocity",
+   "descricao": "Shorts Puma Run Favorite Velocity: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 159.99,
+   "estoque": 16,
+   "categoria": "Roupas",
+   "marca": "Puma",
+   "genero": "Feminino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vinho",
+    "Cinza"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Bermuda Under Armour Tech Graphic",
+   "descricao": "Bermuda Under Armour Tech Graphic: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 169.99,
+   "estoque": 37,
+   "categoria": "Roupas",
+   "marca": "Under Armour",
+   "genero": "Masculino",
+   "esporte": "Treino",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Verde"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 30,
+   "promocao": true,
+   "precoAnterior": 242.84
+  },
+  {
+   "nome": "Regata Nike Dri-FIT Miler",
+   "descricao": "Regata Nike Dri-FIT Miler: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 159.99,
+   "estoque": 13,
+   "categoria": "Roupas",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vinho",
+    "Verde"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 30,
+   "promocao": true,
+   "precoAnterior": 228.56
+  },
+  {
+   "nome": "Regata Adidas Train Essentials",
+   "descricao": "Regata Adidas Train Essentials: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 129.99,
+   "estoque": 16,
+   "categoria": "Roupas",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Cinza"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 30,
+   "promocao": true,
+   "precoAnterior": 185.7
+  },
+  {
+   "nome": "Camiseta Asics Core Run",
+   "descricao": "Camiseta Asics Core Run: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 149.99,
+   "estoque": 31,
+   "categoria": "Roupas",
+   "marca": "Asics",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Preto"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Camiseta Under Armour Tech 2.0",
+   "descricao": "Camiseta Under Armour Tech 2.0: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 139.99,
+   "estoque": 22,
+   "categoria": "Roupas",
+   "marca": "Under Armour",
+   "genero": "Masculino",
+   "esporte": "Treino",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 155.54
+  },
+  {
+   "nome": "Camiseta Mizuno Run Spark",
+   "descricao": "Camiseta Mizuno Run Spark: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 119.99,
+   "estoque": 18,
+   "categoria": "Roupas",
+   "marca": "Mizuno",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Branco"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Camiseta Olympikus Essential",
+   "descricao": "Camiseta Olympikus Essential: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 79.99,
+   "estoque": 39,
+   "categoria": "Roupas",
+   "marca": "Olympikus",
+   "genero": "Unissex",
+   "esporte": "Treino",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 88.88
+  },
+  {
+   "nome": "Top Nike Swoosh Medium Support",
+   "descricao": "Top Nike Swoosh Medium Support: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 219.99,
+   "estoque": 61,
+   "categoria": "Roupas",
+   "marca": "Nike",
+   "genero": "Feminino",
+   "esporte": "Fitness",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Top Adidas Powerimpact",
+   "descricao": "Top Adidas Powerimpact: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 199.99,
+   "estoque": 13,
+   "categoria": "Roupas",
+   "marca": "Adidas",
+   "genero": "Feminino",
+   "esporte": "Fitness",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vinho",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Legging Nike One High-Waisted",
+   "descricao": "Legging Nike One High-Waisted: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 299.99,
+   "estoque": 15,
+   "categoria": "Roupas",
+   "marca": "Nike",
+   "genero": "Feminino",
+   "esporte": "Fitness",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Branco"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Legging Adidas Optime 7/8",
+   "descricao": "Legging Adidas Optime 7/8: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 279.99,
+   "estoque": 36,
+   "categoria": "Roupas",
+   "marca": "Adidas",
+   "genero": "Feminino",
+   "esporte": "Yoga",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Verde"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Legging Lupo Sport Max",
+   "descricao": "Legging Lupo Sport Max: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 159.99,
+   "estoque": 65,
+   "categoria": "Roupas",
+   "marca": "Lupo",
+   "genero": "Feminino",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Preto"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Jaqueta Corta-Vento Nike Windrunner",
+   "descricao": "Jaqueta Corta-Vento Nike Windrunner: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 499.99,
+   "estoque": 34,
+   "categoria": "Roupas",
+   "marca": "Nike",
+   "genero": "Masculino",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Cinza"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Jaqueta Adidas Tiro 24 Treino",
+   "descricao": "Jaqueta Adidas Tiro 24 Treino: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 399.99,
+   "estoque": 69,
+   "categoria": "Roupas",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Verde",
+    "Cinza"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Agasalho Puma TeamRISE",
+   "descricao": "Agasalho Puma TeamRISE: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 449.99,
+   "estoque": 37,
+   "categoria": "Roupas",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vinho",
+    "Verde"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 529.4
+  },
+  {
+   "nome": "Calça Adidas Tiro 24",
+   "descricao": "Calça Adidas Tiro 24: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 299.99,
+   "estoque": 52,
+   "categoria": "Roupas",
+   "marca": "Adidas",
+   "genero": "Masculino",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vinho",
+    "Cinza"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Calça Nike Club Fleece Jogger",
+   "descricao": "Calça Nike Club Fleece Jogger: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 349.99,
+   "estoque": 22,
+   "categoria": "Roupas",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Lifestyle",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul-marinho",
+    "Branco"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Moletom Reebok Identity Fleece",
+   "descricao": "Moletom Reebok Identity Fleece: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 279.99,
+   "estoque": 47,
+   "categoria": "Roupas",
+   "marca": "Reebok",
+   "genero": "Unissex",
+   "esporte": "Lifestyle",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Vinho",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Camiseta Reebok Workout Ready",
+   "descricao": "Camiseta Reebok Workout Ready: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 129.99,
+   "estoque": 57,
+   "categoria": "Roupas",
+   "marca": "Reebok",
+   "genero": "Masculino",
+   "esporte": "Crossfit",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul-marinho",
+    "Preto"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Bermuda Fila Basic Sports",
+   "descricao": "Bermuda Fila Basic Sports: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 99.99,
+   "estoque": 47,
+   "categoria": "Roupas",
+   "marca": "Fila",
+   "genero": "Masculino",
+   "esporte": "Treino",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 117.64
+  },
+  {
+   "nome": "Camiseta Penalty X Treino",
+   "descricao": "Camiseta Penalty X Treino: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 89.99,
+   "estoque": 20,
+   "categoria": "Roupas",
+   "marca": "Penalty",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Rosa"
+   ],
+   "tamanhos": [
+    "PP",
+    "P",
+    "M",
+    "G",
+    "GG"
+   ]
+  },
+  {
+   "nome": "Kit Infantil Umbro Treino Camisa + Shorts",
+   "descricao": "Kit Infantil Umbro Treino Camisa + Shorts: tecido tecnológico que afasta o suor, toque macio e liberdade de movimento.",
+   "preco": 149.99,
+   "estoque": 64,
+   "categoria": "Roupas",
+   "marca": "Umbro",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Infantil",
+   "cores": [
+    "Branco",
+    "Preto"
+   ],
+   "tamanhos": [
+    "4",
+    "6",
+    "8",
+    "10",
+    "12",
+    "14"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 176.46
+  },
+  {
+   "nome": "Bola de Futebol Campo Nike Premier League Flight",
+   "descricao": "Bola de Futebol Campo Nike Premier League Flight: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 899.99,
+   "estoque": 14,
+   "categoria": "Bolas",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 999.99
+  },
+  {
+   "nome": "Bola de Futebol Campo Adidas UCL League",
+   "descricao": "Bola de Futebol Campo Adidas UCL League: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 349.99,
+   "estoque": 25,
+   "categoria": "Bolas",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Bola de Futebol Society Penalty Matis",
+   "descricao": "Bola de Futebol Society Penalty Matis: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 149.99,
+   "estoque": 17,
+   "categoria": "Bolas",
+   "marca": "Penalty",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 166.66
+  },
+  {
+   "nome": "Bola de Futsal Penalty Max 1000",
+   "descricao": "Bola de Futsal Penalty Max 1000: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 229.99,
+   "estoque": 25,
+   "categoria": "Bolas",
+   "marca": "Penalty",
+   "genero": "Unissex",
+   "esporte": "Futsal",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 255.54
+  },
+  {
+   "nome": "Bola de Futsal Umbro Neo Liga",
+   "descricao": "Bola de Futsal Umbro Neo Liga: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 179.99,
+   "estoque": 48,
+   "categoria": "Bolas",
+   "marca": "Umbro",
+   "genero": "Unissex",
+   "esporte": "Futsal",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Bola de Basquete Spalding NBA Street",
+   "descricao": "Bola de Basquete Spalding NBA Street: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 199.99,
+   "estoque": 49,
+   "categoria": "Bolas",
+   "marca": "Spalding",
+   "genero": "Unissex",
+   "esporte": "Basquete",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Bola de Basquete Wilson NBA DRV Pro",
+   "descricao": "Bola de Basquete Wilson NBA DRV Pro: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 249.99,
+   "estoque": 36,
+   "categoria": "Bolas",
+   "marca": "Wilson",
+   "genero": "Unissex",
+   "esporte": "Basquete",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 277.77
+  },
+  {
+   "nome": "Bola de Vôlei Mikasa V200W",
+   "descricao": "Bola de Vôlei Mikasa V200W: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 599.99,
+   "estoque": 47,
+   "categoria": "Bolas",
+   "marca": "Mikasa",
+   "genero": "Unissex",
+   "esporte": "Vôlei",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 666.66
+  },
+  {
+   "nome": "Bola de Vôlei Penalty Pro 8.0",
+   "descricao": "Bola de Vôlei Penalty Pro 8.0: costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 219.99,
+   "estoque": 43,
+   "categoria": "Bolas",
+   "marca": "Penalty",
+   "genero": "Unissex",
+   "esporte": "Vôlei",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Bola de Tênis Wilson US Open (tubo c/ 3)",
+   "descricao": "Bola de Tênis Wilson US Open (tubo c/ 3): costura de alta durabilidade e trajetória estável, ideal para treinos e jogos.",
+   "preco": 59.99,
+   "estoque": 26,
+   "categoria": "Bolas",
+   "marca": "Wilson",
+   "genero": "Unissex",
+   "esporte": "Tênis",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Multicolorido"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Meião Nike Classic II",
+   "descricao": "Meião Nike Classic II: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 49.99,
+   "estoque": 55,
+   "categoria": "Acessórios",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Azul"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 62.49
+  },
+  {
+   "nome": "Meia Lupo Sport Cano Médio (kit 3)",
+   "descricao": "Meia Lupo Sport Cano Médio (kit 3): acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 59.99,
+   "estoque": 31,
+   "categoria": "Acessórios",
+   "marca": "Lupo",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Grená"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 66.66
+  },
+  {
+   "nome": "Caneleira Adidas Tiro Club",
+   "descricao": "Caneleira Adidas Tiro Club: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 79.99,
+   "estoque": 24,
+   "categoria": "Acessórios",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Grená"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G"
+   ]
+  },
+  {
+   "nome": "Caneleira Nike Mercurial Lite",
+   "descricao": "Caneleira Nike Mercurial Lite: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 99.99,
+   "estoque": 24,
+   "categoria": "Acessórios",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Branco"
+   ],
+   "tamanhos": [
+    "P",
+    "M",
+    "G"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 111.1
+  },
+  {
+   "nome": "Luva de Goleiro Puma Ultra Grip 3",
+   "descricao": "Luva de Goleiro Puma Ultra Grip 3: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 249.99,
+   "estoque": 31,
+   "categoria": "Acessórios",
+   "marca": "Puma",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Preto"
+   ],
+   "tamanhos": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ]
+  },
+  {
+   "nome": "Luva de Goleiro Adidas Predator Training",
+   "descricao": "Luva de Goleiro Adidas Predator Training: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 229.99,
+   "estoque": 62,
+   "categoria": "Acessórios",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Futebol",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Branco"
+   ],
+   "tamanhos": [
+    "7",
+    "8",
+    "9",
+    "10"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 287.49
+  },
+  {
+   "nome": "Mochila Nike Brasilia 24L",
+   "descricao": "Mochila Nike Brasilia 24L: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 249.99,
+   "estoque": 84,
+   "categoria": "Acessórios",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Treino",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Preto"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 277.77
+  },
+  {
+   "nome": "Mochila Adidas Power VII",
+   "descricao": "Mochila Adidas Power VII: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 229.99,
+   "estoque": 28,
+   "categoria": "Acessórios",
+   "marca": "Adidas",
+   "genero": "Unissex",
+   "esporte": "Treino",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Azul"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Mochila Under Armour Hustle 5.0",
+   "descricao": "Mochila Under Armour Hustle 5.0: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 349.99,
+   "estoque": 28,
+   "categoria": "Acessórios",
+   "marca": "Under Armour",
+   "genero": "Unissex",
+   "esporte": "Treino",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Branco"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 388.88
+  },
+  {
+   "nome": "Garrafa Térmica GRENÁ 750ml",
+   "descricao": "Garrafa Térmica GRENÁ 750ml: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 89.99,
+   "estoque": 51,
+   "categoria": "Acessórios",
+   "marca": "GRENÁ",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Cinza",
+    "Branco"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 99.99
+  },
+  {
+   "nome": "Boné Nike Dri-FIT Club",
+   "descricao": "Boné Nike Dri-FIT Club: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 149.99,
+   "estoque": 41,
+   "categoria": "Acessórios",
+   "marca": "Nike",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Azul",
+    "Grená"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 166.66
+  },
+  {
+   "nome": "Viseira Oakley Sport",
+   "descricao": "Viseira Oakley Sport: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 129.99,
+   "estoque": 21,
+   "categoria": "Acessórios",
+   "marca": "Oakley",
+   "genero": "Unissex",
+   "esporte": "Corrida",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Grená"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 144.43
+  },
+  {
+   "nome": "Óculos Oakley Sutro Lite",
+   "descricao": "Óculos Oakley Sutro Lite: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 999.99,
+   "estoque": 20,
+   "categoria": "Acessórios",
+   "marca": "Oakley",
+   "genero": "Unissex",
+   "esporte": "Ciclismo",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Azul"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Óculos de Natação Speedo Vanquisher 3.0",
+   "descricao": "Óculos de Natação Speedo Vanquisher 3.0: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 149.99,
+   "estoque": 48,
+   "categoria": "Acessórios",
+   "marca": "Speedo",
+   "genero": "Unissex",
+   "esporte": "Natação",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Branco",
+    "Grená"
+   ],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 20,
+   "promocao": true,
+   "precoAnterior": 187.49
+  },
+  {
+   "nome": "Touca de Natação Speedo Silicone",
+   "descricao": "Touca de Natação Speedo Silicone: acessório esportivo resistente e confortável para o dia a dia de treino.",
+   "preco": 49.99,
+   "estoque": 86,
+   "categoria": "Acessórios",
+   "marca": "Speedo",
+   "genero": "Unissex",
+   "esporte": "Natação",
+   "faixaEtaria": "Adulto",
+   "cores": [
+    "Preto",
+    "Cinza"
+   ],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Whey Protein Concentrado Growth 1kg",
+   "descricao": "Whey Protein Concentrado Growth 1kg: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 149.99,
+   "estoque": 108,
+   "categoria": "Suplementos",
+   "marca": "Growth Supplements",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Creatina Monohidratada Growth 250g",
+   "descricao": "Creatina Monohidratada Growth 250g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 89.99,
+   "estoque": 89,
+   "categoria": "Suplementos",
+   "marca": "Growth Supplements",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Whey Protein 100% Pure Integralmédica 900g",
+   "descricao": "Whey Protein 100% Pure Integralmédica 900g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 169.99,
+   "estoque": 67,
+   "categoria": "Suplementos",
+   "marca": "Integralmédica",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 199.99
+  },
+  {
+   "nome": "Creatina Hardcore Integralmédica 300g",
+   "descricao": "Creatina Hardcore Integralmédica 300g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 119.99,
+   "estoque": 90,
+   "categoria": "Suplementos",
+   "marca": "Integralmédica",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Whey 3W Max Titanium 900g",
+   "descricao": "Whey 3W Max Titanium 900g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 139.99,
+   "estoque": 75,
+   "categoria": "Suplementos",
+   "marca": "Max Titanium",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Creatina Max Titanium 300g",
+   "descricao": "Creatina Max Titanium 300g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 109.99,
+   "estoque": 25,
+   "categoria": "Suplementos",
+   "marca": "Max Titanium",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Pré-Treino Black Skull Bone Crusher 300g",
+   "descricao": "Pré-Treino Black Skull Bone Crusher 300g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 99.99,
+   "estoque": 66,
+   "categoria": "Suplementos",
+   "marca": "Black Skull",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Whey Protein Black Skull 900g",
+   "descricao": "Whey Protein Black Skull 900g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 129.99,
+   "estoque": 65,
+   "categoria": "Suplementos",
+   "marca": "Black Skull",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Whey Protein Isolado Probiótica 900g",
+   "descricao": "Whey Protein Isolado Probiótica 900g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 199.99,
+   "estoque": 107,
+   "categoria": "Suplementos",
+   "marca": "Probiótica",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Barra de Proteína Probiótica Crisp (caixa 12)",
+   "descricao": "Barra de Proteína Probiótica Crisp (caixa 12): suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 89.99,
+   "estoque": 105,
+   "categoria": "Suplementos",
+   "marca": "Probiótica",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "BCAA 2400 Max Titanium 100 caps",
+   "descricao": "BCAA 2400 Max Titanium 100 caps: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 59.99,
+   "estoque": 65,
+   "categoria": "Suplementos",
+   "marca": "Max Titanium",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 70.58
+  },
+  {
+   "nome": "Glutamina Integralmédica 300g",
+   "descricao": "Glutamina Integralmédica 300g: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 99.99,
+   "estoque": 72,
+   "categoria": "Suplementos",
+   "marca": "Integralmédica",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 15,
+   "promocao": true,
+   "precoAnterior": 117.64
+  },
+  {
+   "nome": "Hipercalórico Growth 3kg",
+   "descricao": "Hipercalórico Growth 3kg: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 159.99,
+   "estoque": 115,
+   "categoria": "Suplementos",
+   "marca": "Growth Supplements",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Termogênico Black Skull Thermo Flame 60 caps",
+   "descricao": "Termogênico Black Skull Thermo Flame 60 caps: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 69.99,
+   "estoque": 50,
+   "categoria": "Suplementos",
+   "marca": "Black Skull",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ]
+  },
+  {
+   "nome": "Coqueteleira GRENÁ 600ml",
+   "descricao": "Coqueteleira GRENÁ 600ml: suplemento de alta qualidade para potencializar seus resultados.",
+   "preco": 39.99,
+   "estoque": 42,
+   "categoria": "Suplementos",
+   "marca": "GRENÁ",
+   "genero": "Unissex",
+   "esporte": "Academia",
+   "faixaEtaria": "Adulto",
+   "cores": [],
+   "tamanhos": [
+    "Único"
+   ],
+   "desconto": 10,
+   "promocao": true,
+   "precoAnterior": 44.43
+  }
+ ]
+}
