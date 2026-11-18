@@ -1,3 +1,4 @@
+
 {
   "name": "b4ckdoors-frontend-novo",
   "private": true,
@@ -5,9 +6,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build",
+    "build": "node ./node_modules/typescript/bin/tsc && vite build",
     "preview": "vite preview"
-    
   },
   "dependencies": {
     "@fontsource-variable/archivo": "^5.3.0",
